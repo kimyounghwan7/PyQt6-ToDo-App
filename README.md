@@ -18,3 +18,6 @@ PyQt6-ToDo-App/
 	pyproject.toml
 	uv.lock
 ```
+## Data Schema
+- ToDo Data schema
+- Mail Data schema
